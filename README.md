@@ -1,4 +1,4 @@
-<img align="center" src="https://on.ahmda.ws/qXrl/c" alt="Shades-of-Purple Theme for Slack" />
+<img align="center" src="https://on.ahmda.ws/qYyV/c" alt="Shades-of-Purple Theme for Slack" />
 
 <h1 align="center">Shades of Purple Theme for Alfred</h1>
 
