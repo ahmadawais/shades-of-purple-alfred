@@ -33,7 +33,7 @@
 
 ## Easy Installation
 
-1. Download [`Shades of Purple for Alfred.alfredappearance`](https://github.com/ahmadawais/shades-of-purple-alfred)
+1. Download [`Shades of Purple for Alfred.alfredappearance`](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-alfred/master/Shades%20of%20Purple%20for%20Alfred.alfredappearance) — just click this link and Press <kbd>Cmd/Ctrl</kbd> + <kbd>S</kbd> to save it as is on your system. Make sure the extension remains `.alfredappearance`
 2. Double click to open it in Alfred, it will ask you to confirm the installation. Do that.
 7. Done!!! 🙌
 
