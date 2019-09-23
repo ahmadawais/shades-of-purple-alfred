@@ -29,11 +29,27 @@ I have released a video course to help you become a better developer — <a href
 
 <br>
 
+### RELEASE: [2.2.0](https://github.com/ahmadawais/shades-of-purple-alfred/compare/2.1.0...2.2.0)
+
+![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+> 📖 More software [`a656caf`](https://github.com/ahmadawais/shades-of-purple-alfred/commit/a656cafd8c81525edcdf950cbbd4f050b4414fe1) <br>
+
+<br>
+
+[![hr](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/hr.png)](/)
+
+<br>
+
 ### RELEASE: [2.1.0](https://github.com/ahmadawais/shades-of-purple-alfred/compare/2.0.0...2.1.0)
 
 ![👌 IMPROVE:](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
 
 > 👌 Image [`0621fcc`](https://github.com/ahmadawais/shades-of-purple-alfred/commit/0621fccfb35c0f91292800ae222a2cf952234c6f) <br>
+
+![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+>  📖 Changelog update [`dce1819`](https://github.com/ahmadawais/shades-of-purple-alfred/commit/dce1819fcd6b4177e0b0ae1aaa5bce1a2d94034f) <br>
 
 <br>
 
