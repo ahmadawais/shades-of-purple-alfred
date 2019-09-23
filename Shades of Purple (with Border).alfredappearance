@@ -1,0 +1,61 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 9,
+      "subtext" : {
+        "size" : 10,
+        "colorSelected" : "#1C1B3FFF",
+        "font" : "Operator SSm",
+        "color" : "#4B21FFFF"
+      },
+      "shortcut" : {
+        "size" : 17,
+        "colorSelected" : "#4A00FFFF",
+        "font" : "Operator SSm",
+        "color" : "#4B00FFFF"
+      },
+      "backgroundSelected" : "#FBD100FF",
+      "text" : {
+        "size" : 22,
+        "colorSelected" : "#4B00FFFF",
+        "font" : "Operator Mono Lig",
+        "color" : "#CCD5DBFF"
+      },
+      "iconPaddingHorizontal" : 14,
+      "paddingVertical" : 10,
+      "iconSize" : 40
+    },
+    "search" : {
+      "paddingVertical" : 6,
+      "background" : "#1B1742FF",
+      "spacing" : 10,
+      "text" : {
+        "size" : 35,
+        "colorSelected" : "#000000FF",
+        "font" : "Operator SSm",
+        "color" : "#FEFFFEFF"
+      },
+      "backgroundSelected" : "#B2D7FFFF"
+    },
+    "window" : {
+      "color" : "#1F1743FF",
+      "paddingHorizontal" : 0,
+      "width" : 587,
+      "borderPadding" : 2,
+      "borderColor" : "#FCD200FF",
+      "blur" : 0,
+      "roundness" : 2,
+      "paddingVertical" : 4
+    },
+    "credit" : "Ahmad Awais",
+    "separator" : {
+      "color" : "#1C1941FF",
+      "thickness" : 1
+    },
+    "scrollbar" : {
+      "color" : "#FBD100FF",
+      "thickness" : 2
+    },
+    "name" : "🦄 Shades of Purple (with Border)"
+  }
+}

@@ -1,19 +1,19 @@
 {
 	"name": "shades-of-purple-alfred",
 	"displayName": "Shades of Purple for Alfred",
-	"description":
-		"Professional Alfred color-scheme with hand-picked & bold shades of purple 💜 to go along with your daily spotlight. A custom Alfred color-scheme.",
+	"description": "Professional Alfred color-scheme with hand-picked & bold shades of purple 💜 to go along with your daily spotlight. A custom Alfred color-scheme.",
 	"version": "1.1.0",
 	"publisher": "ahmadawais",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/ahmadawais/shades-of-purple-alfred"
 	},
-	"keywords": ["Shades of Purple", "Shade of Purple", "Cobalt", "iTerm2", "coblat 3"],
-	"devDependencies": {
-		"release-it": "^7.2.1"
-	},
-	"scripts": {
-		"release": "release-it"
-	}
+	"keywords": [
+		"Shades of Purple",
+		"Shades of Purple Alfred",
+		"Shades of Purple Alfred App",
+		"Shade of Purple",
+		"Cobalt",
+		"Cobalt 3"
+	]
 }
