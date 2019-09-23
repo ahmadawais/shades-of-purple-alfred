@@ -29,6 +29,18 @@ I have released a video course to help you become a better developer — <a href
 
 <br>
 
+### RELEASE: [2.1.0](https://github.com/ahmadawais/shades-of-purple-alfred/compare/2.0.0...2.1.0)
+
+![👌 IMPROVE:](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+
+> 👌 Image [`0621fcc`](https://github.com/ahmadawais/shades-of-purple-alfred/commit/0621fccfb35c0f91292800ae222a2cf952234c6f) <br>
+
+<br>
+
+[![hr](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/hr.png)](/)
+
+<br>
+
 ### RELEASE: [2.0.0](https://github.com/ahmadawais/shades-of-purple-alfred/compare/1.1.0...2.0.0)
 
 ![📦 NEW:](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
@@ -38,6 +50,7 @@ I have released a video course to help you become a better developer — <a href
 
 ![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
 
+>  📖 Changelog update [`7c79d3f`](https://github.com/ahmadawais/shades-of-purple-alfred/commit/7c79d3ff612566483cc977c554398898726d20d6) <br>
 > 📖 Partners [`a96c25c`](https://github.com/ahmadawais/shades-of-purple-alfred/commit/a96c25c1998682845df0835b32c20c33a1d4d3e7) <br>
 > 📖 Alfred App Link [`881c135`](https://github.com/ahmadawais/shades-of-purple-alfred/commit/881c13599b6f648ef317cd2aabcdf5428853acdb) <br>
 > 📖 Link to download [`520df16`](https://github.com/ahmadawais/shades-of-purple-alfred/commit/520df16c060469c727da85fe04490cccd06a4c7b) <br>
