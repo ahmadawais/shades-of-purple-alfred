@@ -41,26 +41,32 @@
 
 <br>
 
-![Shades of purple for other software](https://on.ahmda.ws/qYAe/c)
+<br>
 
-## Put `Shades of Purple` In Other Places!
+![Shades of purple for other software](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/9_put_sop.png)
+
+## Put `Shades of Purple` In Other Places
 
 I have built other `Shades of Purple` themes for different software. Here's a list.
 
-- 💜 [VSCode theme](https://github.com/ahmadawais/shades-of-purple-vscode) — Shades of Purple
-- 💜 [iTerm2 theme](https://github.com/ahmadawais/shades-of-purple-iterm2) — Shades of Purple
-- 💜 [Hyper™ theme](https://github.com/ahmadawais/shades-of-purple-hyper) — Shades of Purple
-- 💜 [Konsole theme](https://github.com/ahmadawais/shades-of-purple-konsole) — Shades of Purple
-- 💜 [Slack theme](https://github.com/ahmadawais/shades-of-purple-slack) — Shades of Purple
-- 💜 [Alfred theme](https://github.com/ahmadawais/shades-of-purple-alfred) — Shades of Purple
+- 🦄 [VSCode theme](https://github.com/ahmadawais/shades-of-purple-vscode) — Shades of Purple
+- 🦄 [iTerm2 theme](https://github.com/ahmadawais/shades-of-purple-iterm2) — Shades of Purple
+- 🦄 [Hyper™ theme](https://github.com/ahmadawais/shades-of-purple-hyper) — Shades of Purple
+- 🦄 [HighlightJS theme](https://github.com/ahmadawais/Shades-of-Purple-HighlightJS) — Shades of Purple
+- 🦄 [Konsole theme](https://github.com/ahmadawais/shades-of-purple-konsole) — Shades of Purple
+- 🦄 [Slack theme](https://github.com/ahmadawais/shades-of-purple-slack) — Shades of Purple
+- 🦄 [Alfred theme](https://github.com/ahmadawais/shades-of-purple-alfred) — Shades of Purple
+- 🦄 [Cygwin theme](https://github.com/ahmadawais/Shades-of-Purple-Cygwin) — Shades of Purple
+- 🦄 [WordPress theme](https://ahmadawais.com/shades-of-purple-wordpress/) — Shades of Purple
+- 🦄 [Prism JS](https://github.com/FormidableLabs/prism-react-renderer/blob/master/themes/shadesOfPurple.js) + [Prism CSS](https://codepen.io/ahmadawais/pen/mgjRRr?editors=0100#0) + [Code-Surfer](https://code-surfer.netlify.com/theming/#8) theme — Shades of Purple
 
 <br>
 
-![Hello](http://on.ahmda.ws/os6O/c)
+![Hello](https://on.ahmda.ws/os6O/c)
 
-#### **Hello, we're the [WordPress Couple](https://WPCouple.com)**!
+#### **Hello, we're the [WordPress Couple](https://TheDevCouple.com)**!
 
-I ([Ahmad Awais](https://twitter.com/mrahmadawais/)) am a Full Stack Web Developer and a regular core contributor at WordPress. My significant other ([Maedah Batool](https://twitter.com/MaedahBatool/)) is a Technical Project Manager, and she's also a WordPress Core Contributor. Together with our [team](https://WPCouple.com/team), we run the [WPCouple.com](https://WPCouple.com/).
+I ([Ahmad Awais](https://twitter.com/mrahmadawais/)) am a Full Stack Web Developer and a regular core contributor at WordPress. My significant other ([Maedah Batool](https://twitter.com/MaedahBatool/)) is a Technical Project Manager, and she's also a WordPress Core Contributor. Together with our [team](https://TheDevCouple.com/team), we run the [TheDevCouple.com](https://TheDevCouple.com/).
 
 If you'd like to get insights into our love for open source software, professional full stack development, WordPress community, the growth of JavaScript or growing a family, building, and bootstrapping a business, then subscribe to our premium newsletter called ↣ [The WordPress Takeaway](https://WPTakeaway.club)!
 
